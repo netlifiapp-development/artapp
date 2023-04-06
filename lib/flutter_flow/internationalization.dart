@@ -322,62 +322,62 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
   },
   // Assitantforcomv
   {
-    'iaes9x2y': {
+    'cjepapag': {
       'en': 'Propesor Emilio',
       'es': '',
       'tl': '',
     },
-    '7d9cerff': {
+    'l5uz1mpd': {
       'en': '5',
       'es': '',
       'tl': '',
     },
-    'eyugbrnt': {
+    '18f423v7': {
       'en': 'Office Job and  Business Letters',
       'es': '',
       'tl': '',
     },
-    'zipvtrx5': {
+    'o7fml9yp': {
       'en': 'REASONING',
       'es': '',
       'tl': '',
     },
-    '08wu71p9': {
+    'xne928sy': {
       'en': '90%',
       'es': '',
       'tl': '',
     },
-    'bpe95wpj': {
+    'bx9fkg7u': {
       'en': 'INTERPRETATION',
       'es': '',
       'tl': '',
     },
-    'g5end1za': {
+    '53nqmijk': {
       'en': '80%',
       'es': '',
       'tl': '',
     },
-    'jba5ldr5': {
+    '11zqt23x': {
       'en': 'BUSINESS LETTERS',
       'es': '',
       'tl': '',
     },
-    'gpgw8kf8': {
+    'wjspqedv': {
       'en': '99%',
       'es': '',
       'tl': '',
     },
-    'nhdjjyau': {
+    'uth7i5ah': {
       'en': 'SKILLS',
       'es': '',
       'tl': '',
     },
-    '9hc1b9tq': {
+    'eo7q2a98': {
       'en': 'Ask Me',
       'es': '',
       'tl': '',
     },
-    'donvrhw3': {
+    'm6zylfji': {
       'en': 'Home',
       'es': '',
       'tl': '',

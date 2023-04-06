@@ -1,5 +1,4 @@
 import '/auth/auth_util.dart';
-import '/backend/backend.dart';
 import '/flutter_flow/flutter_flow_theme.dart';
 import '/flutter_flow/flutter_flow_util.dart';
 import 'package:flutter/material.dart';
@@ -884,16 +883,6 @@ class _AuthSheetWidgetState extends State<AuthSheetWidget> {
                             if (user == null) {
                               return;
                             }
-
-                            final usersCreateData = createUsersRecordData(
-                              displayName:
-                                  _model.cANameTextFieldController.text,
-                              email: _model.emailTextFieldController.text,
-                              createdTime: getCurrentTimestamp,
-                            );
-                            await UsersRecord.collection
-                                .doc(user.uid)
-                                .update(usersCreateData);
 
                             context.goNamedAuth('HomePage', mounted);
                           },
