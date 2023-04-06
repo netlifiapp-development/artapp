@@ -141,7 +141,7 @@ class _AssitantforcomvWidgetState extends State<AssitantforcomvWidget>
                                                 Text(
                                                   FFLocalizations.of(context)
                                                       .getText(
-                                                    '2ezit5ax' /* Propesor Emilio */,
+                                                    'iaes9x2y' /* Propesor Emilio */,
                                                   ),
                                                   style: FlutterFlowTheme.of(
                                                           context)
@@ -179,7 +179,7 @@ class _AssitantforcomvWidgetState extends State<AssitantforcomvWidget>
                                                         FFLocalizations.of(
                                                                 context)
                                                             .getText(
-                                                          'icwwiziy' /* 5 */,
+                                                          '7d9cerff' /* 5 */,
                                                         ),
                                                         style: FlutterFlowTheme
                                                                 .of(context)
@@ -228,7 +228,7 @@ class _AssitantforcomvWidgetState extends State<AssitantforcomvWidget>
                                                                   FFLocalizations.of(
                                                                           context)
                                                                       .getText(
-                                                                    '0gq7uglp' /* Office Job and  Business Lette... */,
+                                                                    'eyugbrnt' /* Office Job and  Business Lette... */,
                                                                   ),
                                                                   style: FlutterFlowTheme.of(
                                                                           context)
@@ -297,7 +297,7 @@ class _AssitantforcomvWidgetState extends State<AssitantforcomvWidget>
                                     SelectionArea(
                                         child: Text(
                                       FFLocalizations.of(context).getText(
-                                        'w8vstbym' /* REASONING */,
+                                        'zipvtrx5' /* REASONING */,
                                       ),
                                       style: FlutterFlowTheme.of(context)
                                           .bodyMedium
@@ -321,7 +321,7 @@ class _AssitantforcomvWidgetState extends State<AssitantforcomvWidget>
                                         backgroundColor: Color(0xFFF1F4F8),
                                         center: Text(
                                           FFLocalizations.of(context).getText(
-                                            'wx4aappd' /* 90% */,
+                                            '08wu71p9' /* 90% */,
                                           ),
                                           textAlign: TextAlign.center,
                                           style: FlutterFlowTheme.of(context)
@@ -345,7 +345,7 @@ class _AssitantforcomvWidgetState extends State<AssitantforcomvWidget>
                                     SelectionArea(
                                         child: Text(
                                       FFLocalizations.of(context).getText(
-                                        'dl4ju7ks' /* INTERPRETATION */,
+                                        'bpe95wpj' /* INTERPRETATION */,
                                       ),
                                       style: FlutterFlowTheme.of(context)
                                           .bodyMedium
@@ -369,7 +369,7 @@ class _AssitantforcomvWidgetState extends State<AssitantforcomvWidget>
                                         backgroundColor: Color(0xFFF1F4F8),
                                         center: Text(
                                           FFLocalizations.of(context).getText(
-                                            '8fnu5qbz' /* 80% */,
+                                            'g5end1za' /* 80% */,
                                           ),
                                           textAlign: TextAlign.center,
                                           style: FlutterFlowTheme.of(context)
@@ -393,7 +393,7 @@ class _AssitantforcomvWidgetState extends State<AssitantforcomvWidget>
                                     SelectionArea(
                                         child: Text(
                                       FFLocalizations.of(context).getText(
-                                        'ax7pix7d' /* BUSINESS LETTERS */,
+                                        'jba5ldr5' /* BUSINESS LETTERS */,
                                       ),
                                       textAlign: TextAlign.center,
                                       style: FlutterFlowTheme.of(context)
@@ -418,7 +418,7 @@ class _AssitantforcomvWidgetState extends State<AssitantforcomvWidget>
                                         backgroundColor: Color(0xFFF1F4F8),
                                         center: Text(
                                           FFLocalizations.of(context).getText(
-                                            'tt985dgp' /* 99% */,
+                                            'gpgw8kf8' /* 99% */,
                                           ),
                                           textAlign: TextAlign.center,
                                           style: FlutterFlowTheme.of(context)
@@ -452,7 +452,7 @@ class _AssitantforcomvWidgetState extends State<AssitantforcomvWidget>
                             child: SelectionArea(
                                 child: Text(
                               FFLocalizations.of(context).getText(
-                                'd37lpswg' /* SKILLS */,
+                                'nhdjjyau' /* SKILLS */,
                               ),
                               style: FlutterFlowTheme.of(context)
                                   .bodyMedium
@@ -477,7 +477,7 @@ class _AssitantforcomvWidgetState extends State<AssitantforcomvWidget>
                               print('Button pressed ...');
                             },
                             text: FFLocalizations.of(context).getText(
-                              'xi4m7my8' /* Ask Me */,
+                              '9hc1b9tq' /* Ask Me */,
                             ),
                             icon: Icon(
                               Icons.chat_bubble,
