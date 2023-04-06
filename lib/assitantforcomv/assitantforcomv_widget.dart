@@ -81,7 +81,7 @@ class _AssitantforcomvWidgetState extends State<AssitantforcomvWidget>
                       child: Stack(
                         children: [
                           Image.asset(
-                            'assets/images/86766382_189355005742005_2382770963021299712_n.jpg',
+                            'assets/images/e891d8ce9d3a40ad7066976d437bade1.jpg',
                             width: double.infinity,
                             height: 385.0,
                             fit: BoxFit.cover,
@@ -141,7 +141,7 @@ class _AssitantforcomvWidgetState extends State<AssitantforcomvWidget>
                                                 Text(
                                                   FFLocalizations.of(context)
                                                       .getText(
-                                                    'cjepapag' /* Propesor Emilio */,
+                                                    '1eep0oo1' /* Propesor Emilio */,
                                                   ),
                                                   style: FlutterFlowTheme.of(
                                                           context)
@@ -179,7 +179,7 @@ class _AssitantforcomvWidgetState extends State<AssitantforcomvWidget>
                                                         FFLocalizations.of(
                                                                 context)
                                                             .getText(
-                                                          'l5uz1mpd' /* 5 */,
+                                                          '3sjcu347' /* 5 */,
                                                         ),
                                                         style: FlutterFlowTheme
                                                                 .of(context)
@@ -228,7 +228,7 @@ class _AssitantforcomvWidgetState extends State<AssitantforcomvWidget>
                                                                   FFLocalizations.of(
                                                                           context)
                                                                       .getText(
-                                                                    '18f423v7' /* Office Job and  Business Lette... */,
+                                                                    'z7vai86o' /* Office Job and  Business Lette... */,
                                                                   ),
                                                                   style: FlutterFlowTheme.of(
                                                                           context)
@@ -297,7 +297,7 @@ class _AssitantforcomvWidgetState extends State<AssitantforcomvWidget>
                                     SelectionArea(
                                         child: Text(
                                       FFLocalizations.of(context).getText(
-                                        'o7fml9yp' /* REASONING */,
+                                        't04y4swm' /* REASONING */,
                                       ),
                                       style: FlutterFlowTheme.of(context)
                                           .bodyMedium
@@ -321,7 +321,7 @@ class _AssitantforcomvWidgetState extends State<AssitantforcomvWidget>
                                         backgroundColor: Color(0xFFF1F4F8),
                                         center: Text(
                                           FFLocalizations.of(context).getText(
-                                            'xne928sy' /* 90% */,
+                                            'guqwfws4' /* 90% */,
                                           ),
                                           textAlign: TextAlign.center,
                                           style: FlutterFlowTheme.of(context)
@@ -345,7 +345,7 @@ class _AssitantforcomvWidgetState extends State<AssitantforcomvWidget>
                                     SelectionArea(
                                         child: Text(
                                       FFLocalizations.of(context).getText(
-                                        'bx9fkg7u' /* INTERPRETATION */,
+                                        'y4zgmx6a' /* INTERPRETATION */,
                                       ),
                                       style: FlutterFlowTheme.of(context)
                                           .bodyMedium
@@ -369,7 +369,7 @@ class _AssitantforcomvWidgetState extends State<AssitantforcomvWidget>
                                         backgroundColor: Color(0xFFF1F4F8),
                                         center: Text(
                                           FFLocalizations.of(context).getText(
-                                            '53nqmijk' /* 80% */,
+                                            'rehi7k6d' /* 80% */,
                                           ),
                                           textAlign: TextAlign.center,
                                           style: FlutterFlowTheme.of(context)
@@ -393,7 +393,7 @@ class _AssitantforcomvWidgetState extends State<AssitantforcomvWidget>
                                     SelectionArea(
                                         child: Text(
                                       FFLocalizations.of(context).getText(
-                                        '11zqt23x' /* BUSINESS LETTERS */,
+                                        'j21kb44m' /* BUSINESS LETTERS */,
                                       ),
                                       textAlign: TextAlign.center,
                                       style: FlutterFlowTheme.of(context)
@@ -418,7 +418,7 @@ class _AssitantforcomvWidgetState extends State<AssitantforcomvWidget>
                                         backgroundColor: Color(0xFFF1F4F8),
                                         center: Text(
                                           FFLocalizations.of(context).getText(
-                                            'wjspqedv' /* 99% */,
+                                            'evhf1slz' /* 99% */,
                                           ),
                                           textAlign: TextAlign.center,
                                           style: FlutterFlowTheme.of(context)
@@ -452,7 +452,7 @@ class _AssitantforcomvWidgetState extends State<AssitantforcomvWidget>
                             child: SelectionArea(
                                 child: Text(
                               FFLocalizations.of(context).getText(
-                                'uth7i5ah' /* SKILLS */,
+                                '0bj78kar' /* SKILLS */,
                               ),
                               style: FlutterFlowTheme.of(context)
                                   .bodyMedium
@@ -473,11 +473,11 @@ class _AssitantforcomvWidgetState extends State<AssitantforcomvWidget>
                             ),
                           ),
                           FFButtonWidget(
-                            onPressed: () {
-                              print('Button pressed ...');
+                            onPressed: () async {
+                              context.pushNamed('audioChatDemo');
                             },
                             text: FFLocalizations.of(context).getText(
-                              'eo7q2a98' /* Ask Me */,
+                              '6ecb43ct' /* Ask Me */,
                             ),
                             icon: Icon(
                               Icons.chat_bubble,
@@ -490,7 +490,7 @@ class _AssitantforcomvWidgetState extends State<AssitantforcomvWidget>
                                   12.0, 0.0, 12.0, 0.0),
                               iconPadding: EdgeInsetsDirectional.fromSTEB(
                                   0.0, 0.0, 0.0, 0.0),
-                              color: FlutterFlowTheme.of(context).tertiary,
+                              color: Colors.white,
                               textStyle: FlutterFlowTheme.of(context)
                                   .titleSmall
                                   .override(

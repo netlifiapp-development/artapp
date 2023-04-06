@@ -119,6 +119,11 @@ GoRouter createRouter(AppStateNotifier appStateNotifier) => GoRouter(
               name: 'Assitantforcomv',
               path: 'assitantforcomv',
               builder: (context, params) => AssitantforcomvWidget(),
+            ),
+            FFRoute(
+              name: 'audioChatDemo',
+              path: 'audioChatDemo',
+              builder: (context, params) => AudioChatDemoWidget(),
             )
           ].map((r) => r.toRoute(appStateNotifier)).toList(),
         ),
@@ -305,7 +310,7 @@ class FFRoute {
               ? Container(
                   color: Colors.transparent,
                   child: Image.asset(
-                    'assets/images/flutterFlowUI_Replicate@3x.jpg',
+                    'assets/images/0fb288a519fdb745d0b773d87a6aaf2e.gif',
                     fit: BoxFit.cover,
                   ),
                 )

@@ -322,62 +322,91 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
   },
   // Assitantforcomv
   {
-    'cjepapag': {
+    '1eep0oo1': {
       'en': 'Propesor Emilio',
       'es': '',
       'tl': '',
     },
-    'l5uz1mpd': {
+    '3sjcu347': {
       'en': '5',
       'es': '',
       'tl': '',
     },
-    '18f423v7': {
+    'z7vai86o': {
       'en': 'Office Job and  Business Letters',
       'es': '',
       'tl': '',
     },
-    'o7fml9yp': {
+    't04y4swm': {
       'en': 'REASONING',
       'es': '',
       'tl': '',
     },
-    'xne928sy': {
+    'guqwfws4': {
       'en': '90%',
       'es': '',
       'tl': '',
     },
-    'bx9fkg7u': {
+    'y4zgmx6a': {
       'en': 'INTERPRETATION',
       'es': '',
       'tl': '',
     },
-    '53nqmijk': {
+    'rehi7k6d': {
       'en': '80%',
       'es': '',
       'tl': '',
     },
-    '11zqt23x': {
+    'j21kb44m': {
       'en': 'BUSINESS LETTERS',
       'es': '',
       'tl': '',
     },
-    'wjspqedv': {
+    'evhf1slz': {
       'en': '99%',
       'es': '',
       'tl': '',
     },
-    'uth7i5ah': {
+    '0bj78kar': {
       'en': 'SKILLS',
       'es': '',
       'tl': '',
     },
-    'eo7q2a98': {
+    '6ecb43ct': {
       'en': 'Ask Me',
       'es': '',
       'tl': '',
     },
-    'm6zylfji': {
+    '3voiilwe': {
+      'en': 'Home',
+      'es': '',
+      'tl': '',
+    },
+  },
+  // audioChatDemo
+  {
+    'br74wykx': {
+      'en': 'Small message',
+      'es': '',
+      'tl': '',
+    },
+    'auxbrzx6': {
+      'en':
+          'This is a long message. The container  is limited to 70% max width and the text will start floating',
+      'es': '',
+      'tl': '',
+    },
+    'jscqa07y': {
+      'en': 'last seen recently',
+      'es': '',
+      'tl': '',
+    },
+    '768fnlbj': {
+      'en': 'Start typing',
+      'es': '',
+      'tl': '',
+    },
+    'mhlvo5vr': {
       'en': 'Home',
       'es': '',
       'tl': '',

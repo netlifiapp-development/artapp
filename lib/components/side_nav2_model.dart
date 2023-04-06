@@ -1,5 +1,5 @@
 import '/auth/auth_util.dart';
-import '/components/logo/logo_widget.dart';
+import '/components/logo_widget.dart';
 import '/flutter_flow/flutter_flow_theme.dart';
 import '/flutter_flow/flutter_flow_util.dart';
 import 'package:cached_network_image/cached_network_image.dart';
